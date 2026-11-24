@@ -289,6 +289,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://tinybird.co/favicon.ico" height="14"/> [Tinybird](https://github.com/tinybirdco/mcp-tinybird)<sup><sup>⭐</sup></sup> - Interact with a Tinybird Workspace from any MCP client.
 
 <br />
+- <img src="https://serversareup.com/apple-icon" height="14"/> [Servers Are Up](https://github.com/lostprotocol212/serversareup-mcp-server)<sup><sup>⭐</sup></sup> - Official Streamable HTTP & stdio MCP server for managing US KVM VPS, Windows Server 2025 VMs, Virtual Datacenters, Docker/K3s, Cloud Storage, Game Servers, and ephemeral Ed25519 SSH leases on [Servers Are Up](https://serversareup.com/mcp).
 
 ## ⚙️ <a name="workflow-automation"></a>Workflow Automation
 
